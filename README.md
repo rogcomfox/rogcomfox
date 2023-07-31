@@ -1,9 +1,8 @@
 ### Hi there my name's Joe 👋
 
-- 🔭 I’m currently working as Freelance Mobile Developer
-- 🌱 I’m currently learning iOS app development and Neural Network
-- 💬 Ask me about mobile development, History and Culture, and also about Computer Vision
-- 😎 &mdash; Here's my achievement. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=rogcomfox&show_icons=true)
-<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogcomfox&layout=compact)](https://github.com/rogcomfox/README.md)
+- 🔭 I’m currently working as Whatever I Want :sunglasses:
+- 🌱 I’m currently involve in some of research works and other "important" stuff which remain secret :eyes:
+- 💬 Ask me about anything!!
+- 🚀 To the moon!
 
 Thank you for see this readme :smile:
